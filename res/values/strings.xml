@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FLocator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="French">French</string>
+    <string name="English">English</string>
+    <string name="Search">Search</string>
+
+    <string-array name="Category">
+        <item>Toronto Schools</item>
+        <item>Toronto Hospital</item>
+        <item>Toronto Taxi Service</item>
+        <item>Toronto Super Market</item>
+        <item>Toronto Gas Station</item>
+    </string-array>
+    <string-array name="City">
+        <item>Toronto</item>
+        <item>Ottawa</item>
+        <item>Montreal</item>
+        <item>Quebec City</item>
+    </string-array>
+    <string-array name="Distance">
+        <item>All Schools</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+
+    <string name="title_activity_school"> Toronto Schools</string>
+    <string name="title_activity_locate">LocateActivity</string>
+    <string name="title_activity_details">School Information</string>
+
+</resources>
